@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi, I’m Naghmeh (Nelly)
 
-<!--
-**NaghmehRezaei/NaghmehRezaei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a computational biologist working at the intersection of
+single-cell and spatial transcriptomics, explainable machine learning,
+and mechanistic systems biology.
 
-Here are some ideas to get you started:
+My work focuses on translating complex experimental data into
+biologically interpretable and reproducible models that support
+hypothesis generation, experimental validation, and discovery.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Core interests**
+- Single-cell & spatial omics
+- Multimodal integration (RNA, ATAC, spatial)
+- Explainable ML for biomarker discovery
+- Causal and mechanistic modeling
+- Reproducible HPC workflows
+
+📍 San Diego, CA  
+🔬 Sanford Burnham Prebys Medical Discovery Institute  
+📫 LinkedIn: www.linkedin.com/in/naghmeh-javanshir-8a35b5107
