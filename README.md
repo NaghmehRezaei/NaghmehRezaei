@@ -1,4 +1,4 @@
-### Hi, I’m Naghmeh (Nelly)
+### Hi, I’m Naghmeh 
 
 I’m a computational biologist working at the intersection of
 single-cell and spatial transcriptomics, explainable machine learning,
