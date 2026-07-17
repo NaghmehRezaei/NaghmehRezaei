@@ -15,4 +15,4 @@ hypothesis generation, experimental validation, and discovery.
 - Causal and mechanistic modeling
 - Reproducible HPC workflows
 
-📫 LinkedIn: www.linkedin.com/in/naghmeh-javanshir-8a35b5107
+📫 LinkedIn: www.linkedin.com/in/naghmehrezaei
